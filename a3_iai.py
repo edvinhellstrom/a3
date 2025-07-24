@@ -8,7 +8,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import cross_val_predict
-from sklearn.metrics import classification_report
 
 
 # ______________________________________________________________________
